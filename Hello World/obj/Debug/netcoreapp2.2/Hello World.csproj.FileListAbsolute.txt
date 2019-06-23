@@ -1,0 +1,11 @@
+/home/caiovosilva/repositories/csharp/Hello World/bin/Debug/netcoreapp2.2/Hello World.deps.json
+/home/caiovosilva/repositories/csharp/Hello World/bin/Debug/netcoreapp2.2/Hello World.runtimeconfig.json
+/home/caiovosilva/repositories/csharp/Hello World/bin/Debug/netcoreapp2.2/Hello World.runtimeconfig.dev.json
+/home/caiovosilva/repositories/csharp/Hello World/bin/Debug/netcoreapp2.2/Hello World.dll
+/home/caiovosilva/repositories/csharp/Hello World/bin/Debug/netcoreapp2.2/Hello World.pdb
+/home/caiovosilva/repositories/csharp/Hello World/obj/Debug/netcoreapp2.2/Hello World.csprojAssemblyReference.cache
+/home/caiovosilva/repositories/csharp/Hello World/obj/Debug/netcoreapp2.2/Hello World.csproj.CoreCompileInputs.cache
+/home/caiovosilva/repositories/csharp/Hello World/obj/Debug/netcoreapp2.2/Hello World.AssemblyInfoInputs.cache
+/home/caiovosilva/repositories/csharp/Hello World/obj/Debug/netcoreapp2.2/Hello World.AssemblyInfo.cs
+/home/caiovosilva/repositories/csharp/Hello World/obj/Debug/netcoreapp2.2/Hello World.dll
+/home/caiovosilva/repositories/csharp/Hello World/obj/Debug/netcoreapp2.2/Hello World.pdb
