@@ -1,2 +1,7 @@
 
 vs/
+*.ide
+robocode/MySolution/.vs/MySolution/v16/.suo
+robocode/MySolution/.vs/MySolution/v16/Server/sqlite3/storage.ide-shm
+robocode/MySolution/.vs/MySolution/v16/Server/sqlite3/db.lock
+robocode/MySolution/.vs/MySolution/v16/Server/sqlite3/storage.ide-wal
