@@ -1,9 +1,8 @@
-E:\Caio\Documents\GitHub\csharp\robocode\MySolution\MyProject\bin\Debug\CVOS.MyRobot_1.0.dll
-E:\Caio\Documents\GitHub\csharp\robocode\MySolution\MyProject\bin\Debug\CVOS.MyRobot_1.0.pdb
+E:\Caio\Documents\GitHub\csharp\robocode\MySolution\MyProject\bin\Debug\CVOS.MyRobot_3.0.dll
+E:\Caio\Documents\GitHub\csharp\robocode\MySolution\MyProject\bin\Debug\CVOS.MyRobot_3.0.pdb
 E:\Caio\Documents\GitHub\csharp\robocode\MySolution\MyProject\bin\Debug\robocode.dll
 E:\Caio\Documents\GitHub\csharp\robocode\MySolution\MyProject\bin\Debug\robocode.xml
-E:\Caio\Documents\GitHub\csharp\robocode\MySolution\MyProject\obj\Debug\MyProject.csprojAssemblyReference.cache
 E:\Caio\Documents\GitHub\csharp\robocode\MySolution\MyProject\obj\Debug\MyProject.csproj.CoreCompileInputs.cache
 E:\Caio\Documents\GitHub\csharp\robocode\MySolution\MyProject\obj\Debug\MyProject.csproj.CopyComplete
-E:\Caio\Documents\GitHub\csharp\robocode\MySolution\MyProject\obj\Debug\CVOS.MyRobot_1.0.dll
-E:\Caio\Documents\GitHub\csharp\robocode\MySolution\MyProject\obj\Debug\CVOS.MyRobot_1.0.pdb
+E:\Caio\Documents\GitHub\csharp\robocode\MySolution\MyProject\obj\Debug\CVOS.MyRobot_3.0.dll
+E:\Caio\Documents\GitHub\csharp\robocode\MySolution\MyProject\obj\Debug\CVOS.MyRobot_3.0.pdb
