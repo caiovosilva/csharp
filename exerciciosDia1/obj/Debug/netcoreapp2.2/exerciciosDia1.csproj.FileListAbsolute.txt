@@ -1,0 +1,11 @@
+/home/usuario/Desktop/exerciciosDia1/bin/Debug/netcoreapp2.2/exerciciosDia1.deps.json
+/home/usuario/Desktop/exerciciosDia1/bin/Debug/netcoreapp2.2/exerciciosDia1.runtimeconfig.json
+/home/usuario/Desktop/exerciciosDia1/bin/Debug/netcoreapp2.2/exerciciosDia1.runtimeconfig.dev.json
+/home/usuario/Desktop/exerciciosDia1/bin/Debug/netcoreapp2.2/exerciciosDia1.dll
+/home/usuario/Desktop/exerciciosDia1/bin/Debug/netcoreapp2.2/exerciciosDia1.pdb
+/home/usuario/Desktop/exerciciosDia1/obj/Debug/netcoreapp2.2/exerciciosDia1.csprojAssemblyReference.cache
+/home/usuario/Desktop/exerciciosDia1/obj/Debug/netcoreapp2.2/exerciciosDia1.csproj.CoreCompileInputs.cache
+/home/usuario/Desktop/exerciciosDia1/obj/Debug/netcoreapp2.2/exerciciosDia1.AssemblyInfoInputs.cache
+/home/usuario/Desktop/exerciciosDia1/obj/Debug/netcoreapp2.2/exerciciosDia1.AssemblyInfo.cs
+/home/usuario/Desktop/exerciciosDia1/obj/Debug/netcoreapp2.2/exerciciosDia1.dll
+/home/usuario/Desktop/exerciciosDia1/obj/Debug/netcoreapp2.2/exerciciosDia1.pdb
