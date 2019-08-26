@@ -1,0 +1,9 @@
+c:\Users\caio.silva\Documents\repos\dotnet\demo-asserts\DemoAsserts\bin\Debug\netstandard2.0\DemoAsserts.deps.json
+c:\Users\caio.silva\Documents\repos\dotnet\demo-asserts\DemoAsserts\bin\Debug\netstandard2.0\DemoAsserts.dll
+c:\Users\caio.silva\Documents\repos\dotnet\demo-asserts\DemoAsserts\bin\Debug\netstandard2.0\DemoAsserts.pdb
+c:\Users\caio.silva\Documents\repos\dotnet\demo-asserts\DemoAsserts\obj\Debug\netstandard2.0\DemoAsserts.csprojAssemblyReference.cache
+c:\Users\caio.silva\Documents\repos\dotnet\demo-asserts\DemoAsserts\obj\Debug\netstandard2.0\DemoAsserts.csproj.CoreCompileInputs.cache
+c:\Users\caio.silva\Documents\repos\dotnet\demo-asserts\DemoAsserts\obj\Debug\netstandard2.0\DemoAsserts.AssemblyInfoInputs.cache
+c:\Users\caio.silva\Documents\repos\dotnet\demo-asserts\DemoAsserts\obj\Debug\netstandard2.0\DemoAsserts.AssemblyInfo.cs
+c:\Users\caio.silva\Documents\repos\dotnet\demo-asserts\DemoAsserts\obj\Debug\netstandard2.0\DemoAsserts.dll
+c:\Users\caio.silva\Documents\repos\dotnet\demo-asserts\DemoAsserts\obj\Debug\netstandard2.0\DemoAsserts.pdb

@@ -1,0 +1,17 @@
+c:\Users\caio.silva\Documents\repos\dotnet\demo-asserts\DemoAsserts.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+c:\Users\caio.silva\Documents\repos\dotnet\demo-asserts\DemoAsserts.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+c:\Users\caio.silva\Documents\repos\dotnet\demo-asserts\DemoAsserts.Tests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+c:\Users\caio.silva\Documents\repos\dotnet\demo-asserts\DemoAsserts.Tests\bin\Debug\netcoreapp2.2\DemoAsserts.Tests.deps.json
+c:\Users\caio.silva\Documents\repos\dotnet\demo-asserts\DemoAsserts.Tests\bin\Debug\netcoreapp2.2\DemoAsserts.Tests.runtimeconfig.json
+c:\Users\caio.silva\Documents\repos\dotnet\demo-asserts\DemoAsserts.Tests\bin\Debug\netcoreapp2.2\DemoAsserts.Tests.runtimeconfig.dev.json
+c:\Users\caio.silva\Documents\repos\dotnet\demo-asserts\DemoAsserts.Tests\bin\Debug\netcoreapp2.2\DemoAsserts.Tests.dll
+c:\Users\caio.silva\Documents\repos\dotnet\demo-asserts\DemoAsserts.Tests\bin\Debug\netcoreapp2.2\DemoAsserts.Tests.pdb
+c:\Users\caio.silva\Documents\repos\dotnet\demo-asserts\DemoAsserts.Tests\bin\Debug\netcoreapp2.2\DemoAsserts.dll
+c:\Users\caio.silva\Documents\repos\dotnet\demo-asserts\DemoAsserts.Tests\bin\Debug\netcoreapp2.2\DemoAsserts.pdb
+c:\Users\caio.silva\Documents\repos\dotnet\demo-asserts\DemoAsserts.Tests\obj\Debug\netcoreapp2.2\DemoAsserts.Tests.csprojAssemblyReference.cache
+c:\Users\caio.silva\Documents\repos\dotnet\demo-asserts\DemoAsserts.Tests\obj\Debug\netcoreapp2.2\DemoAsserts.Tests.csproj.CoreCompileInputs.cache
+c:\Users\caio.silva\Documents\repos\dotnet\demo-asserts\DemoAsserts.Tests\obj\Debug\netcoreapp2.2\DemoAsserts.Tests.AssemblyInfoInputs.cache
+c:\Users\caio.silva\Documents\repos\dotnet\demo-asserts\DemoAsserts.Tests\obj\Debug\netcoreapp2.2\DemoAsserts.Tests.AssemblyInfo.cs
+c:\Users\caio.silva\Documents\repos\dotnet\demo-asserts\DemoAsserts.Tests\obj\Debug\netcoreapp2.2\DemoAsserts.Tests.csproj.CopyComplete
+c:\Users\caio.silva\Documents\repos\dotnet\demo-asserts\DemoAsserts.Tests\obj\Debug\netcoreapp2.2\DemoAsserts.Tests.dll
+c:\Users\caio.silva\Documents\repos\dotnet\demo-asserts\DemoAsserts.Tests\obj\Debug\netcoreapp2.2\DemoAsserts.Tests.pdb
