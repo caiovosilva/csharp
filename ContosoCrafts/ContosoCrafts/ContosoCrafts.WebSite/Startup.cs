@@ -26,6 +26,7 @@ namespace ContosoCrafts.WebSite
         {
             services.AddRazorPages();
             services.AddTransient<JsonFileProductService>();
+            services.AddControllers();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -52,6 +53,7 @@ namespace ContosoCrafts.WebSite
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapRazorPages();
+                endpoints.MapControllers();
             });
         }
     }
